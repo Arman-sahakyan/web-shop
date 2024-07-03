@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.208c4a79.css",
+    "main.js": "/static/js/main.bbdbab42.js",
+    "static/js/453.0c0c6154.chunk.js": "/static/js/453.0c0c6154.chunk.js",
+    "static/media/about-us-page-heading.jpg": "/static/media/about-us-page-heading.49bea30e0661642da44b.jpg",
+    "static/media/women-02.jpg": "/static/media/women-02.a9a7a13c5b44086718c3.jpg",
+    "static/media/products-page-heading.jpg": "/static/media/products-page-heading.2d5de2f7d94084b4a111.jpg",
+    "static/media/about-left-image.jpg": "/static/media/about-left-image.fb3c9daa38516ded8518.jpg",
+    "static/media/kid-02.jpg": "/static/media/kid-02.78cd3ad3d3d3c03d32e7.jpg",
+    "static/media/team-member-01.jpg": "/static/media/team-member-01.98a03a0a3d9f0d6ab260.jpg",
+    "static/media/men-02 (1).jpg": "/static/media/men-02 (1).64e5a76c269b1a64bedb.jpg",
+    "static/media/women-03.jpg": "/static/media/women-03.e3af07cdef7cc726b9f7.jpg",
+    "static/media/team-member-02.jpg": "/static/media/team-member-02.95c758cb3e269aaa2ac9.jpg",
+    "static/media/men-03.jpg": "/static/media/men-03.3aae1764d388f97a0b52.jpg",
+    "static/media/men-01.jpg": "/static/media/men-01.539389f4116361d5bb04.jpg",
+    "static/media/kid-01.jpg": "/static/media/kid-01.ff2860561bca920470c0.jpg",
+    "static/media/kid-03.jpg": "/static/media/kid-03.ece408210867fd596069.jpg",
+    "static/media/left-banner-image.jpg": "/static/media/left-banner-image.00266d961adc735098f3.jpg",
+    "static/media/women-01.jpg": "/static/media/women-01.b9dabbec194d27096b81.jpg",
+    "static/media/service-03.jpg": "/static/media/service-03.cf4c1d94da43c6afa207.jpg",
+    "static/media/team-member-03.jpg": "/static/media/team-member-03.bcb88779acc1f16b840d.jpg",
+    "static/media/baner-right-image-04.jpg": "/static/media/baner-right-image-04.c7922dc42bd797b9cacb.jpg",
+    "static/media/service-02.jpg": "/static/media/service-02.99c22f61e66bdd2ec60d.jpg",
+    "static/media/explore-image-02.jpg": "/static/media/explore-image-02.7fb1af6b068fc4368365.jpg",
+    "index.html": "/index.html",
+    "main.208c4a79.css.map": "/static/css/main.208c4a79.css.map",
+    "main.bbdbab42.js.map": "/static/js/main.bbdbab42.js.map",
+    "453.0c0c6154.chunk.js.map": "/static/js/453.0c0c6154.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.208c4a79.css",
+    "static/js/main.bbdbab42.js"
+  ]
+}
